@@ -69,7 +69,8 @@
   ***SCREENSHOTS***
   
 1. Splash screen loading:
-![screenshot_2018-12-17-14-45-27-939_com test](https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png | width=38)
+<img src="![screenshot_2018-12-17-14-45-27-939_com test](https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png)" width="20">
+
 
 2. If Internet not exists:
 ![screenshot_2018-12-17-14-43-39-483_com test](https://user-images.githubusercontent.com/19771986/50154317-083a7980-02ef-11e9-8d93-506578c1d7d8.png)
