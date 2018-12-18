@@ -14,33 +14,38 @@
         4. After data retrieval it redirects to Login screen
         
     * From Login screen -> contains totally two modules:
-          1. ADMIN
-          2. USER
+        1. ADMIN
+        2. USER
           
     * ADMIN(Update, Delete):
-        *UPDATE*
+        UPDATE:
         1. Admin contains fixed privileges for authentication
         2. Admin can assign homeworks in the basis of date, subject, message
         3. After update it will directly update in database
         4. Students(user) can view the added homework
-        *DELETE*
+        
+        DELETE:
         1. Admin can delete particular homework
         2. Students(user) can view the deleted homework
         
    * USER(Signup, Login, ViewHomeWork, ViewProfile, Logout):
-        *SIGNUP*
+        SIGNUP:
            1. User can create new account in signup module
            2. Created user information stored in database
-        *LOGIN*
+           
+        LOGIN:
            1. Checks the user available in existing record of database
            2. If exists -> redirects to viewHomework page
            3. If not exists -> Show Invalid login
-        *ViewHomeWork*
+           
+        ViewHomeWork:
            1. After login success, it shows list of available homeworks from database
            2. Contains drawerNavigator to redirect inner screens
-        *ViewProfile*
+           
+        ViewProfile:
            1. Shows logged in user information
-        *Logout*
+           
+        Logout:
            1. Logout the particular user from the application
 ```
 
@@ -69,7 +74,7 @@
   ***SCREENSHOTS***
   
 1. Splash screen loading:
-<img src="![screenshot_2018-12-17-14-45-27-939_com test](https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png)" width="20">
+<img src="https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png" width="100" height="200" />
 
 
 2. If Internet not exists:
