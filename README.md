@@ -112,7 +112,7 @@
 <img src="https://user-images.githubusercontent.com/19771986/50154752-4b491c80-02f0-11e9-8292-7aa522378db7.png" width="250" height="500"/>
 
 13. Admin Subject selection:
-![screenshot_2018-12-17-14-59-02-279_com test](https://user-images.githubusercontent.com/19771986/50154776-5ac86580-02f0-11e9-8f9a-327bf73074dd.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154776-5ac86580-02f0-11e9-8f9a-327bf73074dd.png" width="250" height="500"/>
 
 13. After data provided:
 <img src="https://user-images.githubusercontent.com/19771986/50154906-a713a580-02f0-11e9-900d-6d81ab91d268.png" width="250" height="500"/>
@@ -122,6 +122,6 @@
 <img src="https://user-images.githubusercontent.com/19771986/50154985-dcb88e80-02f0-11e9-94e3-8c99bdd3f28f.png" width="250" height="500"/>
 
 15. Delete confirmation:
-<img src="https://user-images.githubusercontent.com/19771986/50154993-e17d4280-02f0-11e9-9b65-0ce911e1ee8a.png width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/19771986/50154993-e17d4280-02f0-11e9-9b65-0ce911e1ee8a.png" width="250" height="500"/>
 <img src="https://user-images.githubusercontent.com/19771986/50154994-e3df9c80-02f0-11e9-999c-1cb6f5c3db76.png" width="250" height="500"/>
 
