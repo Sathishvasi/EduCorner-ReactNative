@@ -78,48 +78,50 @@
 
 
 2. If Internet not exists:
-![screenshot_2018-12-17-14-43-39-483_com test](https://user-images.githubusercontent.com/19771986/50154317-083a7980-02ef-11e9-8d93-506578c1d7d8.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154317-083a7980-02ef-11e9-8d93-506578c1d7d8.png" width="250" height="500" />
 
 3. Login screen:
-![screenshot_2018-12-17-14-43-17-702_com test](https://user-images.githubusercontent.com/19771986/50154348-1f796700-02ef-11e9-83df-568cb1b1fa69.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154348-1f796700-02ef-11e9-83df-568cb1b1fa69.png" width="250" height="500" />
 
 4. Signup Screen to create new account:
-![screenshot_2018-12-17-14-49-17-905_com test](https://user-images.githubusercontent.com/19771986/50154444-56e81380-02ef-11e9-84e7-9c62aa13c657.png)
-![screenshot_2018-12-17-14-52-25-757_com test](https://user-images.githubusercontent.com/19771986/50154452-5b143100-02ef-11e9-9dfa-010c33f1aa95.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154444-56e81380-02ef-11e9-84e7-9c62aa13c657.png" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/19771986/50154452-5b143100-02ef-11e9-9dfa-010c33f1aa95.png" width="250" height="500"/>
 
 5. Invalig login action:
-![screenshot_2018-12-17-14-53-09-557_com test](https://user-images.githubusercontent.com/19771986/50154471-6e270100-02ef-11e9-9a35-a160249abe6c.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154471-6e270100-02ef-11e9-9a35-a160249abe6c.png" width="250" height="500"/>
 
 6. Shows list of homeworks after login success:
-![screenshot_2018-12-17-18-38-02-820_com test](https://user-images.githubusercontent.com/19771986/50154534-9e6e9f80-02ef-11e9-81a7-c46d7b1fa842.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154534-9e6e9f80-02ef-11e9-81a7-c46d7b1fa842.png" width="250" height="500"/>
 
 7. DrawerNavigator view for page redirection:
-![screenshot_2018-12-17-18-38-10-680_com test](https://user-images.githubusercontent.com/19771986/50154563-b34b3300-02ef-11e9-8c6b-640332b8a6ce.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154563-b34b3300-02ef-11e9-8c6b-640332b8a6ce.png" width="250" height="500"/>
 
 8. Profile screen for user information:
-![screenshot_2018-12-17-14-55-05-033_com test](https://user-images.githubusercontent.com/19771986/50154632-e1c90e00-02ef-11e9-8292-5e7f8def01cc.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154632-e1c90e00-02ef-11e9-8292-5e7f8def01cc.png" width="250" height="500"/>
 
 9. Admin fixed privelege for admin login:
-![screenshot_2018-12-17-14-56-18-038_com test](https://user-images.githubusercontent.com/19771986/50154659-f9a09200-02ef-11e9-96ee-7b903a71672d.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154659-f9a09200-02ef-11e9-96ee-7b903a71672d.png" width="250" height="500"/>
 
 10. Admin can update Date, subject, Description:
-![screenshot_2018-12-17-14-58-50-240_com test](https://user-images.githubusercontent.com/19771986/50154737-3a98a680-02f0-11e9-8ddd-44c0faf2d2aa.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154737-3a98a680-02f0-11e9-8ddd-44c0faf2d2aa.png" width="250" height="500"/>
 
 11. Validation also done:
-![screenshot_2018-12-17-15-01-14-789_com test](https://user-images.githubusercontent.com/19771986/50154844-8b100400-02f0-11e9-92da-1141730cb828.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154844-8b100400-02f0-11e9-92da-1141730cb828.png" width="250" height="500"/>
 
 12. Admin Date selection:
-![screenshot_2018-12-17-14-58-41-294_com test](https://user-images.githubusercontent.com/19771986/50154752-4b491c80-02f0-11e9-8292-7aa522378db7.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154752-4b491c80-02f0-11e9-8292-7aa522378db7.png" width="250" height="500"/>
 
-13. Admin Subject selection;
+13. Admin Subject selection:
 ![screenshot_2018-12-17-14-59-02-279_com test](https://user-images.githubusercontent.com/19771986/50154776-5ac86580-02f0-11e9-8f9a-327bf73074dd.png)
 
 13. After data provided:
-![screenshot_2018-12-17-15-00-08-052_com test](https://user-images.githubusercontent.com/19771986/50154906-a713a580-02f0-11e9-900d-6d81ab91d268.png)
-![screenshot_2018-12-17-15-13-51-209_com test](https://user-images.githubusercontent.com/19771986/50154913-ab3fc300-02f0-11e9-90a6-9537411d6bd1.png)
+<img src="https://user-images.githubusercontent.com/19771986/50154906-a713a580-02f0-11e9-900d-6d81ab91d268.png" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/19771986/50154913-ab3fc300-02f0-11e9-90a6-9537411d6bd1.png" width="250" height="500"/>
 
-14. Admin Delete homework
-![screenshot_2018-12-17-15-40-13-538_com test](https://user-images.githubusercontent.com/19771986/50154985-dcb88e80-02f0-11e9-94e3-8c99bdd3f28f.png)
-![screenshot_2018-12-17-15-42-58-299_com test](https://user-images.githubusercontent.com/19771986/50154993-e17d4280-02f0-11e9-9b65-0ce911e1ee8a.png)
-![screenshot_2018-12-17-18-35-21-298_com test](https://user-images.githubusercontent.com/19771986/50154994-e3df9c80-02f0-11e9-999c-1cb6f5c3db76.png)
+14. Admin Delete homework:
+<img src="https://user-images.githubusercontent.com/19771986/50154985-dcb88e80-02f0-11e9-94e3-8c99bdd3f28f.png" width="250" height="500"/>
+
+15. Delete confirmation:
+<img src="https://user-images.githubusercontent.com/19771986/50154993-e17d4280-02f0-11e9-9b65-0ce911e1ee8a.png width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/19771986/50154994-e3df9c80-02f0-11e9-999c-1cb6f5c3db76.png" width="250" height="500"/>
 
