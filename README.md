@@ -1,17 +1,22 @@
 # EduCorner-ReactNative
 
 ``` bash
-Description about ReactNative application:
+*Description about ReactNative application:*
+
     * Main use of this application is to teachers(admin) assigning homework to students(users)
+    
     * Here I'm using realtime firebase database for data maintenance
+    
     * Initially application starts from Splash screen
         1. If internet is turned-off -> displays No-internet message and shows Try-again option
         2. Else it fetches all homeworks datas from database from splash screen
         3. shows loading progress till data retrieval
         4. After data retrieval it redirects to Login screen
+        
     * From Login screen -> contains totally two modules:
           1. ADMIN
           2. USER
+          
     * ADMIN(Update, Delete):
         *UPDATE*
         1. Admin contains fixed privileges for authentication
@@ -24,39 +29,39 @@ Description about ReactNative application:
         
    * USER(Signup, Login, ViewHomeWork, ViewProfile, Logout):
         *SIGNUP*
-        1. User can create new account in signup module
-        2. Created user information stored in database
+           1. User can create new account in signup module
+           2. Created user information stored in database
         *LOGIN*
-        1. Checks the user available in existing record of database
-        2. If exists -> redirects to viewHomework page
-        3. If not exists -> Show Invalid login
+           1. Checks the user available in existing record of database
+           2. If exists -> redirects to viewHomework page
+           3. If not exists -> Show Invalid login
         *ViewHomeWork*
-        1. After login success, it shows list of available homeworks from database
-        2. Contains drawerNavigator to redirect inner screens
+           1. After login success, it shows list of available homeworks from database
+           2. Contains drawerNavigator to redirect inner screens
         *ViewProfile*
-        1. Shows logged in user information
+           1. Shows logged in user information
         *Logout*
-        1. Logout the particular user from the application
+           1. Logout the particular user from the application
 ```
 
 ## Steps for ReactNative Setup
 
 ``` bash
 # Start application by installing dependencies
-* > react-native init <Project-name>
+   * > react-native init <Project-name>
 
 # Create local.properties folder inside android folder:
-* This is created to set SDK path to the project
-* SDK path in this file: sdk.dir = "C:\\Users\\<SystemName>\\AppData\\Local\\Android\\sdk"
+   * This is created to set SDK path to the project
+   * SDK path in this file: sdk.dir = "C:\\Users\\<SystemName>\\AppData\\Local\\Android\\sdk"
 
 # To connect Mobile with React Native project:
-* Go to this path: C:\Users\<SystemName>\AppData\Local\Android\Sdk\platform-tools
-* C:\Users\<SystemName>\AppData\Local\Android\Sdk\platform-tools>adb devices
-* Shows List of devices attached
-* >adb -s <deviceName> reverse tcp:8081 tcp:8081
+   * Go to this path: C:\Users\<SystemName>\AppData\Local\Android\Sdk\platform-tools
+   * C:\Users\<SystemName>\AppData\Local\Android\Sdk\platform-tools>adb devices
+   * Shows List of devices attached
+   * >adb -s <deviceName> reverse tcp:8081 tcp:8081
 
 # Run project:
-* >react-native run-android
+   * >react-native run-android
 
 ```
 
@@ -64,7 +69,7 @@ Description about ReactNative application:
   ***SCREENSHOTS***
   
 1. Splash screen loading:
-![screenshot_2018-12-17-14-45-27-939_com test](https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png)
+![screenshot_2018-12-17-14-45-27-939_com test](https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png | width=38)
 
 2. If Internet not exists:
 ![screenshot_2018-12-17-14-43-39-483_com test](https://user-images.githubusercontent.com/19771986/50154317-083a7980-02ef-11e9-8d93-506578c1d7d8.png)
