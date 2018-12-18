@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771532336991",
+    "firebase_url": "https://home-work-fadc2.firebaseio.com",
+    "project_id": "home-work-fadc2",
+    "storage_bucket": "home-work-fadc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771532336991:android:9b29de05859bfd16",
+        "android_client_info": {
+          "package_name": "com.sathish.home_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771532336991-93uk6col4m7c3rpna7dpgbdfqusrpl93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sathish.home_work",
+            "certificate_hash": "bdc42e4090af4ef04be7adac1415c68faa1de277"
+          }
+        },
+        {
+          "client_id": "771532336991-sqt8b619fdh732pus022dcjica3jlffa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpfZ8HYjlglhv1eHsCiOVFu_hw37TIbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771532336991-sqt8b619fdh732pus022dcjica3jlffa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
