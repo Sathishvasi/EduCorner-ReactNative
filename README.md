@@ -74,7 +74,7 @@
   ***SCREENSHOTS***
   
 1. Splash screen loading:
-<img src="https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png" width="250" height="450" />
+<img src="https://user-images.githubusercontent.com/19771986/50154283-f35de600-02ee-11e9-8191-2ee13c5bd88e.png" width="250" height="500" />
 
 
 2. If Internet not exists:
